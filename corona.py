@@ -7,7 +7,8 @@ def notifyme(title, message):
     notification.notify(
         title=title,
         message=message,
-        app_icon="C:\\Users\\gkush\\Downloads\\cc.ico",
+        app_icon=None,
+        #app_icon="C:\\Users\\gkush\\Downloads\\cc.ico", '''image path in the format of ico'''
         timeout=10
 
     )
