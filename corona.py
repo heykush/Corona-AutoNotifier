@@ -29,7 +29,7 @@ if __name__ == "__main__":
         myDatastr = myDatastr[1:]
         itemList = myDatastr.split("\n\n")
             
-        states = ['Delhi']
+        states = ['Delhi']                                   #ADD your state in this list 
         for item in itemList[0:29]:
             datalist = item.split('\n')
             # print(datalist)
