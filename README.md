@@ -1,6 +1,6 @@
 # Corona-AutoNotifier
 
-It's LIVE Window Corona Notifier of Your State 
+It's **LIVE Window Corona Notifier** of Your *State* 
 
 ## Install Modules
 - pip install `plyer`
