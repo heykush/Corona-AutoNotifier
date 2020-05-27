@@ -2,6 +2,9 @@
 
 It's **LIVE Window Corona Notifier** of Your *State* 
 
+## DEMO
+![demo](https://github.com/heykush/Corona-AutoNotifier/blob/master/ezgif.com-video-to-gif.gif?raw=true)
+
 ## Install Modules
 - pip install `plyer`
 - pip install `requests`
